@@ -1,4 +1,4 @@
-#Tomcat8 + Oracle JDK8 + CentOS7
+#Tomcat8 + JDK8 + CentOS7
 
 
 
